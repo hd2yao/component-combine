@@ -1,0 +1,13 @@
+OSS:
+  ENDPOINT: "oss-cn-shanghai.aliyuncs.com"
+  ACCESS_KEY_ID: "LTAI5tKhiieha9ae41L9muvE"
+  ACCESS_KEY_SECRET: "8LLKzgTJG0NOyNGG3nCjWsqUbheJyC"
+  BUCKET_NAME: "bycoin"
+
+MongoDB:
+  MONGODB_URL: "mongodb://192.168.2.84:27017"
+  DATABASE: "SanguoImage"
+  COLLECTION: "Metadata"
+
+READ_FILEPATH: "E:\\DesktopFile\\Bycoin\\Sanguo_Male\\Sanguo_Male_N_Lastest\\"
+LOCAL_FILE: "E:\\10542\\Desktop\\test\\"
